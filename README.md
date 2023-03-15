@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*dBPwuC3Dh2WWFFYTwogTMA.gif)]
+[![MasterHead](https://cdn.wallpapersafari.com/25/96/ihAOpL.jpg)]
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
