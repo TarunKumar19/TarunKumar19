@@ -1,5 +1,5 @@
-[![MasterHead](https://cdn.wallpapersafari.com/25/96/ihAOpL.jpg)]
-<h1 align="center">Hi 👋, I'm Tarun</h1>
+
+<h1 align="center">Hello Everyone 👋, I'm Tarun</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently doing projects on  **Machine Learing ,Deep Learning**
 
-- 💬 Ask me about **Machine Learing,python**
+- 💬 Tarun is a Data Scientist with a passion for delivering valuable insights through Analytical methods, Data visualizations and Data retrieval methodologies to enhance business visibility.
 
 - 📫 How to reach me **er.tarun87@gmail.com**
 
