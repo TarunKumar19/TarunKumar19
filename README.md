@@ -1,15 +1,40 @@
-
 <h1 align="center">Hello Everyone 👋, I'm Tarun</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Data Science & Machine Learning || SQL, Python, Tableau, EDA , NLP & Machine Learning Certified.</h3>
+
 <img align ="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumar19&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar19" /> </p>
+- Hello, folks! 👋I'm Tarun
+- 
+✨ About Me in 30 secs✨
 
-- 🌱 I’m currently doing projects on  **Machine Learing ,Deep Learning**
+- 👀 Tarun is a Data Scientist with a passion for delivering valuable insights through Analytical methods, Data visualizations and Data retrieval methodologies to enhance business visibility.
 
-- 💬 Tarun is a Data Scientist with a passion for delivering valuable insights through Analytical methods, Data visualizations and Data retrieval methodologies to enhance business visibility.
+- 💬 Ask me about Data Science and Machine Learning
 
 - 📫 How to reach me **er.tarun87@gmail.com**
+
+💡TECHNICAL EXPERTISE💡:
+
+- Programming Language: Python
+- Databases: MySQL 
+- Data Visualization: Excel, Tableau.
+- Machine Learning Algorithms: Tensorflow ,Linear Regression, Logistic Regression, Naïve bayes, Decision tree, Random forest, AdaBoost, Stacking, KNN, K-Means, Agglomerative, dB scan.
+- Libraries: NumPy, Pandas, SQLAlchemy, SciPy, Scikit-learn, Matplotlib, Seaborn, NLTK.
+- Tools & Platforms: JUPYTER notebook, Spyder.
+
+⚡Projects on Machine Learning⚡
+
+- Cancer Detection System
+
+- Prediction of Store Sales Regression
+
+- House Grades Classification
+
+- Mall Customers Segmentation Clustering
+
+- Product Recommendation by web logs. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
