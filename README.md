@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I'm Tarun</h1>
-<h3 align="center">Data Science & Machine Learning || SQL, Python, Tableau, EDA , NLP & Machine Learning Certified.</h3>
+<h3 align="center">Data Scientist & Python Developer.</h3>
 
 <img align ="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
