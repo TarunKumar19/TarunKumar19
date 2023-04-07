@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone 👋, I'm Tarun</h1>
 <h3 align="center">Data Scientist & Python Developer.</h3>
 
-<img align ="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumar19&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar19" /> </p>
 
